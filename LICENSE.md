@@ -1,4 +1,4 @@
-# 
+# AI-powered breakout trading bot Algorithm | momentum-analysis + statistical-arbitrage is the best breakout trading bot, featuring momentum-analysis and statistical-arbitrage.
 
 
 
